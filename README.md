@@ -1,7 +1,7 @@
 # Periodic Table Elements — Metal vs Non-metal Classification
 
 ## Overview
-This repository contains a Jupyter Notebook that classifies chemical elements from the periodic table into **metals** and **non-metals** using a Random Forest binary classifier. The model is trained on electronic configuration features, number of valence electrons (`Nvalence`) and the total number of electrons.
+This repository contains a Jupyter Notebook that classifies chemical elements from the periodic table into **metals** and **non-metals** using a Random Forest binary classifier. The model is trained on electronic configuration features, number of valence electrons (`Nvalence`) and the total number of electrons. The task was proposed by V. D. Neverov.
 
 ## Key features
 - Binary classification of elements into metal (1) and non-metal (0).
