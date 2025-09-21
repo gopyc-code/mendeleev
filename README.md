@@ -16,5 +16,5 @@ This repository contains a Jupyter Notebook that classifies chemical elements fr
 - Classifier 1 (electron configuration) accuracy: **0.86**
 - Classifier 2 (`Nvalence`, `TotalElectrons`) accuracy: **0.83**
 
-Idea by V. D. Neverov.
+The idea and dataset were provided by V. D. Neverov.
 
